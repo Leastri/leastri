@@ -1,4 +1,8 @@
-# 👋 A small introduction
+<p align="center">
+  <img src="https://github.com/Leastri/leastri/blob/097bc6f566878c72d300d01147e0e0b300237853/new%20banner.png" alt="Header" width="100%">
+</p>
+
+# 🎯 A small introduction
 
 I’m Athena Strikou and i'm passionate about exploring data and uncovering insights that tell a story.  
 For the past 6 months, I’ve been gaining hands-on experience in a professional environment, working on projects involving **data analysis**, **visualization**, and **process automation** — always aiming to turn information into clear and actionable results.
@@ -14,12 +18,12 @@ For the past 6 months, I’ve been gaining hands-on experience in a professional
 ---
 
 ### 📚 Projects
-Welcome to my portfolio — a collection of projects highlighting my work in **data analysis, dashboard creation**.
+Welcome to my portfolio, a collection of projects highlighting my work in **data analysis, dashboard creation**.
 
 ---
 
 ### 🔬 Academic Focus
-My interest in data goes beyond practice — I chose to focus my **thesis on time series analysis**, exploring **classification techniques using Python**.  
+My interest in data goes beyond practice, i chose to focus my **thesis on time series analysis**, exploring **classification techniques using Python**.  
 This experience deepened my understanding of data patterns, modeling, and analytical problem-solving.
 
 ---
