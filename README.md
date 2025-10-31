@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Athena Strikou
+# 👋 A small introduction
 
-I’m passionate about exploring data and uncovering insights that tell a story.  
+I’m Athena Strikou and i'm passionate about exploring data and uncovering insights that tell a story.  
 For the past 6 months, I’ve been gaining hands-on experience in a professional environment, working on projects involving **data analysis**, **visualization**, and **process automation** — always aiming to turn information into clear and actionable results.
 
 ---
