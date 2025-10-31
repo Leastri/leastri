@@ -18,7 +18,8 @@ For the past 6 months, I’ve been gaining hands-on experience in a professional
 ---
 
 ### 📚 Projects
-Welcome to my portfolio, a collection of projects highlighting my work in **data analysis, dashboard creation**.
+Welcome to my [portfolio](https://github.com/Leastri/Portfolio-examples/blob/155b1b68df22a91311dc41c6329be3066c327ff3/README.md), a collection of projects highlighting my work in **data analysis, dashboard creation**.
+
 
 ---
 
